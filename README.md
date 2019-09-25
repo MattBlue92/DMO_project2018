@@ -1,0 +1,5 @@
+# DMO_project2018
+Questo repository contiene il codice python che è stato scritto insieme a Federico Fiorentino e Matteo Ghera per il progetto di Data Mining and Organization.
+Il progetto assegnato consiste nel condurre una analisi dati sulla carriera degli studenti del primo anno del corso di laurea in Informatica triennale dell'università degli di Firenze nelle corti 2012-2017.
+Usando il clustering abbiamo trovato un pattern interessante che ci dice che gli studenti al primo anno danno come primo esame l'esame di Algoritmi e strutture dati, (seguito da Analisi Matematica) e trascurano gli esami di Archittetura degli elaboratori e Matematica discreta e logica.
+Per quest'ultimo corso abbiamo creato un albero di decisione per trovare un modello che aiuta a capire quali sono le caratteristiche degli studenti che danno l'esame e di quelli che non l'ho danno al primo anno. Il lavoro è stato suddiviso in 3 notebook: preprocessing dei dati, classificazione binaria con alberi cart e clustering
